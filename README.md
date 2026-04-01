@@ -2,7 +2,7 @@
 
 A beautifully designed React application featuring a modern UI with glassmorphism effects, displaying comprehensive weather forecasts using the OpenWeather API.
 
-## ✨ Features
+## Features
 
 - **Modern Glassmorphism UI**: Translucent cards with blur effects and smooth animations
 - **Responsive Design**: Mobile-first layout that works perfectly on all devices
@@ -23,7 +23,7 @@ A beautifully designed React application featuring a modern UI with glassmorphis
 - Humidity alerts
 - Wind conditions
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone or download** the project
 
@@ -50,7 +50,7 @@ A beautifully designed React application featuring a modern UI with glassmorphis
 
 6. **Open your browser** to `http://localhost:5173` (or the port shown in terminal)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React 19** - Modern React with hooks
 - **Vite** - Fast build tool and dev server
@@ -58,7 +58,7 @@ A beautifully designed React application featuring a modern UI with glassmorphis
 - **Axios** - HTTP client for API calls
 - **CSS** - Modern styling with CSS variables and glassmorphism
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -77,7 +77,7 @@ src/
 └── main.jsx                     # App entry point
 ```
 
-## 🎨 Design Features
+##  Design Features
 
 - **Glassmorphism**: Backdrop blur effects on all cards
 - **Gradient Backgrounds**: Dynamic sky-inspired gradients
@@ -87,19 +87,19 @@ src/
 - **Typography**: Inter font for clean, readable text
 - **Color Scheme**: Cyan accent colors with high contrast
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Desktop**: >768px - Full layout with grid insights
 - **Tablet**: 480px-768px - Adjusted spacing and sizing
 - **Mobile**: <480px - Single column, optimized touch targets
 
-## 🔧 Data Processing
+## Data Processing
 
 - **Smart Interpolation**: Missing weekday data is intelligently filled using adjacent days' values
 - **Complete 7-Day View**: All weekdays (Sunday-Saturday) always display on the chart
 - **Weather Icons**: Dynamic emoji icons based on current weather conditions
 
-## 🚀 Build & Deploy
+##  Build & Deploy
 
 ```bash
 # Build for production
@@ -109,13 +109,13 @@ npm run build
 npm run preview
 ```
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Enjoy the weather! ☀️🌧️❄️**
+**Enjoy the weather!**
 
 ```
 src/
